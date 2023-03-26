@@ -1,0 +1,33 @@
+
+nav {
+background-color: rgb(20, 78, 214);
+height: 50px;
+width: 400px;
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+.navigator_bar{
+  display: inline-block;
+}
+
+li a:hover {
+background-color: rgb(1, 37, 156);
+}
